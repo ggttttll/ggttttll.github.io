@@ -6,18 +6,17 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I am currently a Postdoctoral Research Associate at Princeton University.
+I am currently a Postdoctoral Research Associate at Princeton University. Before that, I received my PhD from Brown University under the supervision of [Dan Abramovich](http://www.math.brown.edu/dabramov/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
 
 
-## Papers
+## Papers and Preprints
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. 
+2. 
 
 ## Activities
 
