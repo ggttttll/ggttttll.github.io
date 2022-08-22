@@ -1,5 +1,4 @@
 title: Tangli Ge
-url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -14,6 +13,5 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+
 
