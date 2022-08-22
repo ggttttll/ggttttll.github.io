@@ -13,7 +13,7 @@ sass:
 
 nav:
  - name: "Research"
-   link: "/researcher/"
+   link: "/research/"
  - name: "Teaching"
    link: "/teaching/"
  - name: "Activities"
