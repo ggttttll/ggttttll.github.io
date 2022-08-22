@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Tangli Ge
+## About me
 
 <img class="profile-picture" src="sherlock.jpg">
 
