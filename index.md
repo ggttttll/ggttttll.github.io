@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="tangli.jpg">
 
 I am currently a Postdoctoral Research Associate at Princeton University. Before that, I received my PhD from Brown University under the supervision of [Dan Abramovich](http://www.math.brown.edu/dabramov/).
 
