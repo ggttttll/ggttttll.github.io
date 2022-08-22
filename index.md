@@ -1,6 +1,5 @@
-
-
 # Tangli Ge
+===
 
 <img class="profile-picture" src="sherlock.jpg">
 
@@ -17,8 +16,6 @@ I am currently a Postdoctoral Research Associate at Princeton University. Before
 2. 
 
 ## Activities
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
@@ -38,5 +35,5 @@ Here is a blockquote
 
 ## Teaching
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* ddd2
+* daagd
