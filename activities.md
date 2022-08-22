@@ -3,4 +3,4 @@ layout: default
 ---
 
 ## Upcoming travel
- - Jan 15 MSRI
+ - January 15 - May 31  MSRI
