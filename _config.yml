@@ -1,4 +1,4 @@
-title: Researcher
+title: Tangli Ge
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -7,9 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
@@ -18,7 +16,4 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+
