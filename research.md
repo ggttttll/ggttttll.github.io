@@ -8,6 +8,6 @@ I am interested in arithmetic geometry, which studys the connection between alge
 
 ## Papers and Preprints
 
-3. Uniform Mordell--Lang plus Bogomolov
+1. Uniform Mordell--Lang plus Bogomolov
 2. The uniform Mordell--Lang conjecture
-1. Uniformity of quadratic points
+3. Uniformity of quadratic points
