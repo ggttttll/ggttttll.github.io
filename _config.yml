@@ -12,5 +12,10 @@ sass:
     sass_dir: _sass
 
 nav:
-
+ - name: "Research"
+   link: "/researcher/"
+ - name: "Teaching"
+   link: "/teaching/"
+ - name: "Activities"
+   link: "/activities/"
 
