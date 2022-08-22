@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Tangli Ge
-===
 
 <img class="profile-picture" src="sherlock.jpg">
 
@@ -12,7 +11,7 @@ I am currently a Postdoctoral Research Associate at Princeton University. Before
 
 ## Research Interest
 
-How to remove title??
+Ok, which one is better
 
 ## Papers and Preprints
 
