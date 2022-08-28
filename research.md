@@ -14,3 +14,9 @@ I am interested in arithmetic geometry, which studys the connection between alge
 0. The uniform Mordell--Lang conjecture
 0. Uniformity of quadratic points
 {: reversed="reversed"}
+
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
