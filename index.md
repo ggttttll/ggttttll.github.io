@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="tangli.jpg">
 
-I am currently an Instructor at the [Department of Mathematics, Princeton University](https://www.math.princeton.edu/). 
+I am currently an Instructor at the [Department of Mathematics](https://www.math.princeton.edu/), Princeton University. 
 
 I received my PhD in May 2022 from Brown University, advised by [Dan Abramovich](http://www.math.brown.edu/dabramov/).
 
