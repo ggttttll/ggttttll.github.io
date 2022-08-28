@@ -6,14 +6,14 @@ layout: default
 
 <img class="profile-picture" src="tangli.jpg">
 
-I am currently an Instructor at Princeton University. 
+I am currently an Instructor at [Department of Mathematics, Princeton University](https://www.math.princeton.edu/). 
 
 I received my PhD in May 2022 from Brown University, advised by [Dan Abramovich](http://www.math.brown.edu/dabramov/).
 
 ## Contact
 
-Permanent email: getangli533(at)gmail(dot)com
-
+**Permanent email**: getangli533(at)gmail(dot)com
+**Institutional email:** to be updated
 
 
 
