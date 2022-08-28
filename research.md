@@ -13,3 +13,4 @@ I am interested in arithmetic geometry, which studys the connection between alge
 1. Uniform Mordell--Lang plus Bogomolov
 2. The uniform Mordell--Lang conjecture
 3. Uniformity of quadratic points
+{: reversed="reversed"}
