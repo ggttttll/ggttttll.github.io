@@ -14,7 +14,7 @@ I received my PhD in May 2022 from Brown University, advised by [Dan Abramovich]
 
 **Permanent email**: getangli533(at)gmail(dot)com
 
-**Institutional email:** to be updated
+**Institutional email:** tangli(at)princeton(dot)edu
 
 
 
