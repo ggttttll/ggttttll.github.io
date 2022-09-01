@@ -4,7 +4,7 @@ layout: default
 
 ## Research interest
 
-I am interested in arithmetic geometry, which studys the connection between algebraic geometry and number theory. I am particularly fascinated by the problems of density of rational points and the problems on unlikely intersections.
+I am interested in arithmetic geometry, which studys the connection between algebraic geometry and number theory. I am especially fascinated by the problems of density of rational points and the problems on unlikely intersections.
 
 ## Papers and Preprints
 In reverse chronological order:
