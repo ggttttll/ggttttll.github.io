@@ -4,7 +4,7 @@ layout: default
 
 ## Current teaching
 ### Princeton University
- - Fall 2022: *Calculus I (MAT 103)*, Instructor
+ - Fall 2022: *Calculus I (MAT 103)*, Preceptor
 
 
 
